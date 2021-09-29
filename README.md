@@ -1,8 +1,8 @@
 ## clipperhelper
-Script to create custom references to be used with clipper.
+Script to create files required to run [clipper](https://github.com/YeoLab/clipper) on custom references.
 
 ### pre-requisites
-clipperhelper only needs pandas and argparse python libraries. Details provided in the `requirements.txt` file, if you wish to create conda environment.
+clipperhelper only needs pandas and argparse python libraries. Details provided in the `requirements.txt` file, if you wish to create a conda environment.
 
 ### usage
 ```

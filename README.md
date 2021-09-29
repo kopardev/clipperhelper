@@ -1,3 +1,14 @@
+<!-- TOC -->
+
+- [clipperhelper](#clipperhelper)
+    - [pre-requisites](#pre-requisites)
+    - [usage](#usage)
+    - [example](#example)
+    - [comments etc.](#comments-etc)
+
+<!-- /TOC -->
+
+
 ## clipperhelper
 Script to create files required to run [clipper](https://github.com/YeoLab/clipper) on custom references.
 
@@ -29,5 +40,5 @@ The above command will create the following files:
 
 All of these are required to run clipper on a custom genome with customized annotations (GTF).
 
-#### comments etc.
+### comments etc.
 Feel free to contact me at vishal.koparde@nih.gov
